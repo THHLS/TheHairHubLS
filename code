@@ -1,0 +1,14 @@
+$ git clone [HTTPS or SSH URL]<!DOCTYPE html>
+<html>
+   <head>
+      <title>The Hair Hub </title>
+   </head>
+   <body>
+      <h1>Welcome to The Hair Hub! ⭐️</h1>
+      <p>How was your day? 🎉</p>
+   </body>
+</html>
+
+$ git add index.html
+$ git commit -m "Initialize website"
+$ git push origin main
